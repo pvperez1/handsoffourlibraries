@@ -16,3 +16,4 @@ Gemfile.lock
 
 # If you would like to Ignore objects directory to avoid committing binary files (other than demo files), uncomment the line below.
 # objects/
+metadata-tools/

@@ -1,12 +1,10 @@
 field,display_name,browse_link,dc_map,schema_map
 title,Title,,DCTERMS.title,headline
-creator,Creator,,DCTERMS.creator,creator
+creator,Creator,true,DCTERMS.creator,creator
 date,Date Created,,DCTERMS.created,dateCreated
 description,Description,,DCTERMS.description,description
 subject,Subjects,true,DCTERMS.subject,keywords
-collection,Collections,,,
-latitude,Latitude
-longitude,Longitude
+collection,Collections,true,,
 source,Source
 identifier,Source Identifier
 type,Type,,DCTERMS.type
