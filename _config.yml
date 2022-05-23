@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: https://handsoffourlibraries.onrender.com/
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/pvperez1/handsoffourlibraries
 
 ##########
 # SITE SETTINGS
@@ -73,7 +73,7 @@ metadata: metadata
 # (this is done automatically by gh-pages build)
 #
 # ignore stuff
-exclude: [docs/, Rakefile, README.md, LICENSE]
+exclude: [metadata-tools/, docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
 sass:
   style: compressed
